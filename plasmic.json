@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "files",
@@ -738,23 +738,23 @@
         },
         {
           "id": "Uihh0sWFy2fI",
-          "name": "Screenshot 2023-05-18 at 12.18 8",
-          "filePath": "plasmic/website_starter/images/screenshot20230518At12188.jpg"
+          "name": "Screenshot 2023-05-18 at 12.18 7",
+          "filePath": "plasmic/website_starter/images/screenshot20230518At12187.jpg"
         },
         {
           "id": "6vp1PnHhk1M4",
+          "name": "Screenshot 2023-05-18 at 12.18 9",
+          "filePath": "plasmic/website_starter/images/screenshot20230518At12189.jpg"
+        },
+        {
+          "id": "DCH_VVwVX1h-",
           "name": "Screenshot 2023-05-18 at 12.18 5",
           "filePath": "plasmic/website_starter/images/screenshot20230518At12185.jpg"
         },
         {
-          "id": "DCH_VVwVX1h-",
+          "id": "c6ipqbuG4VVF",
           "name": "Screenshot 2023-05-18 at 12.18 6",
           "filePath": "plasmic/website_starter/images/screenshot20230518At12186.jpg"
-        },
-        {
-          "id": "c6ipqbuG4VVF",
-          "name": "Screenshot 2023-05-18 at 12.18 7",
-          "filePath": "plasmic/website_starter/images/screenshot20230518At12187.jpg"
         }
       ],
       "indirect": false,
